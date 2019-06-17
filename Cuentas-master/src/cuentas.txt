@@ -1,0 +1,10 @@
+debito,RTDG43JAI,Francisco Frias Montoya,0,17/6/2019,2,ciudad de mexico,ffm209@gmail.com,55986347,3279795647,9000.0,none
+debito,RTDG43JAI,Francisco Frias Montoya,0,17/6/2019,2,ciudad de mexico,ffm209@gmail.com,55986347,3279795647,9000.0,none
+debito,RTDG43JAI,Francisco Frias Montoya,0,17/6/2019,2,ciudad de mexico,ffm209@gmail.com,55986347,3279795647,8891.0,none
+debito,RTDG43JAI,Francisco Frias Montoya,0,17/6/2019,2,ciudad de mexico,ffm209@gmail.com,55986347,3279795647,9000.0,none
+debito,RTDG43JAI,Jesus Gonzalez Fernandez,4,17/6/2019,2,guanajuato,jgf03@hotmail.com,95632874,6350156897,6000.0,none
+debito,RTDG43JAI,Francisco Frias Montoya,0,17/6/2019,2,ciudad de mexico,ffm209@gmail.com,55986347,3279795647,9000.0,none
+debito,RTDG43JAI,Francisco Frias Montoya,0,17/6/2019,2,ciudad de mexico,ffm209@gmail.com,55986347,3279795647,9000.0,none
+debito,RTDG43JAI,Francisco Frias Montoya,0,17/6/2019,2,ciudad de mexico,ffm209@gmail.com,55986347,3279795647,8891.0,none
+debito,RTDG43JAI,Francisco Frias Montoya,0,17/6/2019,2,ciudad de mexico,ffm209@gmail.com,55986347,3279795647,9000.0,none
+debito,RTDG43JAI,Jesus Gonzalez Fernandez,4,17/6/2019,2,guanajuato,jgf03@hotmail.com,95632874,6350156897,6000.0,none

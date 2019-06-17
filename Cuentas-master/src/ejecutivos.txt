@@ -1,0 +1,3 @@
+1,debito,Alejandro,GOGA,nunca jamas,5544332211,500000.0,alejandrom8
+2,debito,Leonardo Juarez Perez,RTDG43JAI,Alvaro Obregon,55983641,10000.0,FER2
+3,credito,Salvador Rodriguez Gonzalez,SAL05GO,Alvaro Obregon,5962471824,8000.0,FER3
